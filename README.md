@@ -1,6 +1,6 @@
 # RubyPuro - OneBitCode
 
-Curso de Ruby Puro da OneBitCode
+Curso Ministrado pela OneBitCode
 
 # Conteúdo programático
 ```sh
@@ -15,3 +15,5 @@ Aula 08 - Ruby Avançado I
 Aula 09 - Ruby Avançado II
 Aula 10 - Projeto Final
 ```
+
+# Exercícios Praticados
