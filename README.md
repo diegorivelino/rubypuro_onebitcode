@@ -1,6 +1,6 @@
 # RubyPuro - OneBitCode
 
-Curso Ministrado pela OneBitCode
+Curso ministrado pela OneBitCode
 
 # Conteúdo programático
 ```sh
