@@ -5,7 +5,7 @@ Curso ministrado pela OneBitCode
 # Conteúdo programático
 ```sh
 Aula 01 - O Início
-  🔷 Conceitos, instalação, 
+  - Conceitos, instalação, 
 Aula 02 - Conceitos Básicos
   🔷 Tipos de dados
     🔸 Integer, float, boolean, string, array, symbol, hash
