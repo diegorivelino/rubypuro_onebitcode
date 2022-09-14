@@ -4,14 +4,14 @@ Curso ministrado pela OneBitCode
 
 # Conteúdo programático
 ```sh
-1️⃣ O Início
+Aula 01 - O Início
   🔷 Conceitos, instalação, 
-2️⃣ Conceitos Básicos
+Aula 02 - Conceitos Básicos
   🔷 Tipos de dados
     🔸 Integer, float, boolean, string, array, symbol, hash
   🔷 Operadores matemáticos
   🔷 Entrada e saída
-3️⃣ - Estrutura de Controle
+Aula 03 - Estrutura de Controle
 Aula 04 - Collections
 Aula 05 - Métodos e Gems
 Aula 06 - Programação Orientada a Objetos I
