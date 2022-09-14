@@ -6,7 +6,9 @@ Curso ministrado pela OneBitCode
 ```sh
 Aula 01 - O Início
 Aula 02 - Conceitos Básicos
-  - Tipos de dados, operadores matemáticos, entrada e saída
+  - Tipos de dados
+  - Operadores matemáticos
+  - Entrada e saída
 Aula 03 - Estrutura de Controle
 Aula 04 - Collections
 Aula 05 - Métodos e Gems
