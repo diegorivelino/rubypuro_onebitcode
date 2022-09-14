@@ -7,6 +7,7 @@ Curso ministrado pela OneBitCode
 Aula 01 - O Início
 Aula 02 - Conceitos Básicos
   - Tipos de dados
+    (integer, float, boolean, string)
   - Operadores matemáticos
   - Entrada e saída
 Aula 03 - Estrutura de Controle
