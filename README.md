@@ -8,7 +8,7 @@ Aula 01 - O Início
 > Conceitos, instalação, conhecendo (p, puts, print e irb)
 Aula 02 - Conceitos Básicos
 > Tipos de dados
-  | Integer(1), float(1,2), boolean(true/false), string"a", array[], symbol:, hash{}
+  | Integer(1), float(1.2), boolean(true/false), string"a", array[], symbol:, hash{}
 > Operadores matemáticos
 > Entrada e saída
 Aula 03 - Estrutura de Controle
